@@ -1,0 +1,3 @@
+Binary Search
+Binary Tree
+Remember vector assigning is faster than pushing each element
